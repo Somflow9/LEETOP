@@ -22,4 +22,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/Somflow9/LEETOP/tree/master/0175-combine-two-tables) |
 | [0183-customers-who-never-order](https://github.com/Somflow9/LEETOP/tree/master/0183-customers-who-never-order) |
+## Array
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Somflow9/LEETOP/tree/master/0004-median-of-two-sorted-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Somflow9/LEETOP/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Somflow9/LEETOP/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
