@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Somflow9/LEETOP/tree/master/0004-median-of-two-sorted-arrays) |
+| [0016-3sum-closest](https://github.com/Somflow9/LEETOP/tree/master/0016-3sum-closest) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Somflow9/LEETOP/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Binary Search
 |  |
@@ -47,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Somflow9/LEETOP/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/Somflow9/LEETOP/tree/master/0016-3sum-closest) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/Somflow9/LEETOP/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
